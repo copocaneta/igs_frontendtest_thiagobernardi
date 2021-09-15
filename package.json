@@ -1,0 +1,23 @@
+{
+  "name": "igs_teste",
+  "version": "1.0.0",
+  "description": "Teste realizado por Thiago Bernardi para IGS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "Thiago Bernardi",
+  "license": "ISC",
+  "dependencies": {
+    "dompurify": "^2.3.2",
+    "flickity": "^2.2.2",
+    "jquery": "^3.6.0",
+    "swiper": "^7.0.5"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.40.0"
+  }
+}
