@@ -63,7 +63,7 @@
   docker run -d -p 8080:80 igs-lobby-thiagobernardi:v1
   ```
 
-- The `Dockerfile` as well as functional **Docker image** (named `igs-lobby-thiagobernardi.tar`) itself are provided at the root of this repo so you can evaluate.
+- The `Dockerfile` as well as a functional **Docker image** (named `igs-lobby-thiagobernardi.tar`) itself are provided at the root of this repo so you can evaluate.
 
 - Thanks for the opportunity.
 
