@@ -16,7 +16,7 @@
 
 - I decided not to use Bootstrap for the sake of performance reason being: since this was a small User Interface app I thought simplicity would play a big role here and I went with simple plain HTML using **Flexbox** CSS and Pure JavaScript.
 
-- For the slider at the center of the page I decided not to reivent the wheel and use [SwipperJS](<[https://](https://swiperjs.com/)>) which is a well built and awesome responsive Slider/Carousel.
+- For the slider at the center of the page I decided not to reivent the wheel and use [SwipperJS](https://swiperjs.com/) which is a well built and awesome responsive Slider/Carousel.
 
 - I used **ES6 Modules** and bundled/minified everything with **Parcel Bundler**:
 
@@ -78,8 +78,8 @@
 - HTML5
 - Flexbox CSS
 - Vanilla JavaScript
-- DOM Purify (to sanitize data)
-- SwiperJS (for the slider/carousel)
-- Docker
+- [DOMPurify](https://www.npmjs.com/package/dompurify) (to sanitize data)
+- [SwipperJS](https://swiperjs.com/) (for the slider/carousel)
+- Docker with an NGINX webserver serving the app
 
 ---
